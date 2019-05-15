@@ -1,0 +1,28 @@
+{
+  "name": "react-light",
+  "version": "1.0.0",
+  "description": "Incoming.",
+  "main": "lib/ReactLight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luctst/react-light.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react-light",
+    "js-library",
+    "react-lighter"
+  ],
+  "author": "Tostée Lucas <lucas.tostee@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luctst/react-light/issues"
+  },
+  "homepage": "https://github.com/luctst/react-light#readme"
+}
